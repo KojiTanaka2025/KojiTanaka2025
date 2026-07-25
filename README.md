@@ -1,7 +1,4 @@
 ### Koji Tanaka — ADAS Systems & Functional Safety Engineer
-
-Koji Tanaka — ADAS Systems & Functional Safety Engineer
-
 15+ years in automotive ADAS system engineering, OEM interface management, and
 functional safety (ISO 26262) across global program delivery.
 
